@@ -1,4 +1,7 @@
-NIHAO_recon/*
-SDSS/*
+good_NIHAO
+good_SDSS
+selectpics
+NIHAO_recon_all/*
+SDSS_all/*
 *.R
 *.csv
